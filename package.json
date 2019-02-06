@@ -1,0 +1,22 @@
+{
+  "name": "azure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "azure-storage": "^2.10.2",
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.2.0",
+    "ejs": "^2.6.1",
+    "g": "^2.0.1",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9",
+    "@azure/storage-blob": "^10.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
